@@ -16,14 +16,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>Kamran Noori Nejad | Software Engineer</title>
+    <title>Kamran N. Farvin | Mobile Engineer</title>
     <link rel="icon" href="img/favicon.ico" type="image/x-icon">
 
    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
             <meta name="google-site-verification" content="oBrGyKzAqZnRq-12MnIP4ti-zkUls6L-QCrxMjaEvqg" />
             <meta name="author" content="Kamran Noori Nejad" />        
-    		<meta name="keywords" content="kamran, noori, nejad, 'full stack', 'software engineer', software,engineer,nodejs,google,develop,programmer,application,'mobile application', developer, designer, art, android, ios, swift, html5, css3, ux, ui, php, programming, development,jquery,photoshop,illustrator,adobe, xcode, 'android studio' ,طراحی,'وب سایت',کامران,نوری,'کامران نوری نژاد,گرافیک,برنامه نویس'" />	       
-    		<meta name="description" content="My Name Is Kamran Noori Nejad, A Developer Based In Tehran" />
+    		<meta name="keywords" content="kamran, noori, nezhad, farvin, 'full stack', 'mobile engineer', mobile, software,engineer,nodejs,google,develop,programmer,application,'mobile application', developer, designer, art, android, ios, swift, html5, css3, ux, ui, php, programming, development,jquery,photoshop,illustrator,adobe, xcode, 'android studio' ,طراحی,'وب سایت',کامران,نوری,'کامران نوری نژاد,گرافیک,برنامه نویس'" />	       
+    		<meta name="description" content="My Name Is Kamran, A Developer Based In Toronto" />
     		<meta name="p:domain_verify" content="46758dd3fc5dd2640e9e76e3adbb924c"/>
             
     <!-- Bootstrap -->
@@ -77,7 +77,7 @@
             <ul class="box-primary-nav">
                 <li class="box-label">who am i?</li>
 
-                <li><span style="display: block;margin: 0 auto;width: 50%; color:#fff;font-weight: 200;font-size:17px;">My Name is "Kamran Noori Nejad", a Software Engineer based in Tehran.<br/>I always love creating modern tools and services, which make life easier and simplify daily routines for everyone, so it's a great feeling while watching people use them and say "Hey, It's So Fast!"<br/>
+                <li><span style="display: block;margin: 0 auto;width: 50%; color:#fff;font-weight: 200;font-size:17px;">My Name is "Kamran", a Software Engineer based in Toronto<br/>I always love creating modern tools and services, which make life easier and simplify daily routines for everyone, so it's a great feeling while watching people use them and say "Hey, It's So Fast!"<br/>
                    now, there is a lot of things around, that needs to mixed up with a little bit of art & creativity!<br/>
                    well,
 I believe in technology,
@@ -94,11 +94,8 @@ they lead us to a great world and amazing life!</span></li>
                 <li class="box-label">Follow me</li>
 
                 <li class="box-social"><a href="https://www.linkedin.com/in/knoori/" target="_blank"><i class="ion-social-linkedin"></i></a></li>
-                <li class="box-social"><a href="https://www.instagram.com/kmnno/" target="_blank"><i class="ion-social-instagram-outline"></i></a></li>
-                <!--<li class="box-social"><a href="https://twitter.com/kmnoori" target="_blank"><i class="ion-social-twitter"></i></a></li>-->
-                <!--<li class="box-social"><a href="https://t.me/kmnno/" target="_blank"><i class="ion-paper-airplane"></i></a></li>-->
                 <li class="box-social"><a href="https://github.com/kmno/" target="_blank"><i class="ion-social-github"></i></a></li>
-                <li class="box-social"><a href="mailto:kamran.noori.nejad@gmail.com"><i class="ion-ios-email-outline"></i></a></li>
+                <li class="box-social"><a href="mailto:kn.farvin@gmail.com"><i class="ion-ios-email-outline"></i></a></li>
             </ul>
         </nav>
         <!-- end nav -->
@@ -160,191 +157,7 @@ they lead us to a great world and amazing life!</span></li>
         <!-- end box-intro -->
     </div>
 
-    <!-- portfolio div -->
-    <div class="portfolio-div">
-        <div class="portfolio">
-            <div class="no-padding portfolio_container">
-                <!-- single work -->
-                <div class="col-md-6 col-sm-12">
-                    <a href="https://play.google.com/store/apps/details?id=com.kmno.leftorite" class="portfolio_item" target="_blank">
-                        <img src="img/leftorite.png" alt="leftorite" class="img-responsive" />
-                        <div class="portfolio_item_hover">
-                            <div class="portfolio-border clearfix">
-                                <div class="item_info">
-                                  <span><b>LeftoRite</b><br/>Which one is your favorite?!<br/>Left or Right?<br>(Kotlin + Android JetPack)</span>
-                                    <em>Read more</em>
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <!-- end single work -->
-
-                <!-- single work -->
-                <!--<div class="col-md-3 col-sm-6 ads graphics">
-                    <a href="http://giftcard.shahr-bank.ir/" class="portfolio_item" target="_blank">
-                        <img src="img/giftcard.png" alt="giftcard" class="img-responsive" />
-                        <div class="portfolio_item_hover">
-                            <div class="portfolio-border clearfix">
-                                <div class="item_info">
-                                    <span>Giftcard Web Store</span>
-                                    <em>read more</em>
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>-->
-                <!-- end single work -->
-
-                <!-- single work -->
-                <div class="col-md-6 col-sm-12">
-                    <a href="https://play.google.com/store/apps/details?id=ir.winwin" class="portfolio_item" target="_blank">
-                        <img src="img/winwin.png" alt="winwin" class="img-responsive" />
-                        <div class="portfolio_item_hover">
-                            <div class="portfolio-border clearfix">
-                                <div class="item_info">
-                                  <span><b>WinWin Mobile Payment</b><br/>Winwin is a mobile payment and loyalty club application that you can do the payments by your smart phone and don’t need to present your debit/credit card or paying in cache.<br>(Android & Swift)</span>
-                                    <em>Read more</em>
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <!-- end single work -->
-
-               
-                <!-- single work -->
-                <div class="col-md-6 col-sm-12">
-                    <a href="https://bankmellat.ir/ramznegar.aspx" class="portfolio_item" target="_blank">
-                        <img src="img/otp.png" alt="otp" class="img-responsive" />
-                        <div class="portfolio_item_hover">
-                            <div class="portfolio-border clearfix">
-                                <div class="item_info">
-                                  <span><b>Mellat Dynamic Pin framework (OTP solution)</b><br>Android + iOS</span>
-                                    <em>Read more</em>
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <!-- end single work -->
-                
-                <!-- single work -->
-                <!--<div class="col-md-3 col-sm-6">
-                    <a href="https://cafebazaar.ir/app/com.parsbin/" class="portfolio_item" target="_blank">
-                        <img src="img/parsbin-app.png" alt="parsbin" class="img-responsive" />
-                        <div class="portfolio_item_hover">
-                            <div class="portfolio-border clearfix">
-                                <div class="item_info">
-                                    <span>Parsbin Android App</span>
-                                    <em>read more</em>
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>-->
-              
-              <div class="col-md-6 col-sm-12">
-                    <a href="https://play.google.com/store/apps/details?id=com.kmno.flutter.iblink" class="portfolio_item" target="_blank">
-                        <img src="img/iblink.png" alt="iblink" class="img-responsive" />
-                        <div class="portfolio_item_hover">
-                            <div class="portfolio-border clearfix">
-                                <div class="item_info">
-                                    <span><b>iBlink (Eye Blink)</b><br/>reminds you to blink, if it's long time you stare at your smartphone!<br/>(Flutter)</span>
-                                    <em>Read more</em>
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <!-- end single work -->
-            </div>
-            <!-- end portfolio_container -->
-        </div>
-        <!-- portfolio -->
-    </div>
-    <!-- end portfolio div -->
-                
-  <div class="container-fluid">
-      <h2 style="text-align: center;padding: 60px 0 0;color:#0bafa7;font-weight:700;text-transform: uppercase;">My Artworks</h2>
-      <i id="down-arrow" class="ion-arrow-down-b"></i>
-    </div>
-
-        <!-- portfolio div -->
-    <div class="portfolio-div">
-        <div class="portfolio">
-            <div class="no-padding portfolio_container">
-                <!-- single work -->
-                <div class="col-md-3 col-sm-6 portfolio_item">
-                        <img src="img/art-4.jpg" alt="photo" class="img-responsive" />
-                        <div class="portfolio_item_hover">
-                            <div class="portfolio-border clearfix">
-                                <div class="item_info">
-                                    <span>Photography</span>
-                                </div>
-                            </div>
-                        </div>
-                </div>
-                <!-- end single work -->
-
-                <!-- single work -->
-                <div class="col-md-3 col-sm-6 ads graphics portfolio_item">
-                        <img src="img/art-3.jpg" alt="photo" class="img-responsive" />
-                        <div class="portfolio_item_hover">
-                            <div class="portfolio-border clearfix">
-                                <div class="item_info">
-                                    <span>Photography + Typography</span>
-                                </div>
-                            </div>
-                        </div>
-                </div>
-                <!-- end single work -->
-
-                <!-- single work -->
-                <div class="col-md-6 col-sm-12 portfolio_item">
-                        <img src="img/art-1.jpg" alt="photo" class="img-responsive" />
-                        <div class="portfolio_item_hover">
-                            <div class="portfolio-border clearfix">
-                                <div class="item_info">
-                                    <span>Digital illustration</span>
-                                </div>
-                            </div>
-                        </div>
-                </div>
-                <!-- end single work -->
-
-               
-                <!-- single work -->
-                <div class="col-md-3 col-sm-6 portfolio_item">
-                        <img src="img/art-5.jpg" alt="photo" class="img-responsive" />
-                        <div class="portfolio_item_hover">
-                            <div class="portfolio-border clearfix">
-                                <div class="item_info">
-                                    <span>Drawing/illustration</span>
-                                </div>
-                            </div>
-                        </div>
-                </div>
-                <!-- end single work -->
-                
-                <!-- single work -->
-                <div class="col-md-3 col-sm-6 portfolio_item">
-                        <img src="img/art-2.jpg" alt="photo" class="img-responsive" />
-                        <div class="portfolio_item_hover">
-                            <div class="portfolio-border clearfix">
-                                <div class="item_info">
-                                    <span>Drawing/illustration</span>
-                                </div>
-                            </div>
-                        </div>
-                </div>
-                <!-- end single work -->
-            </div>
-            <!-- end portfolio_container -->
-        </div>
-        <!-- portfolio -->
-    </div>
-    <!-- end portfolio div -->
+        
     
   <div class="container-fluid">
     <img src="img/origami.png" class="img-responsive" alt="origami" style="margin: 50px auto 0;">
@@ -392,8 +205,8 @@ they lead us to a great world and amazing life!</span></li>
             <!--<div class="h-30"></div>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliter enim nosmet ipsos nosse non possumus. Inscite autem medicinae et gubernationis ultimum cum ultimo sapientiae comparatur. Tecum optime, deinde etiam cum mediocri amico. Et nemo nimium beatus est; Ac ne plura complectar-sunt enim innumerabilia-, bene laudata virtus voluptatis aditus </p>-->
             <div class="contact-info">
-                <p><i class="ion-android-call"></i> +98 912 021 26 46</p>
-                <p><i class="ion-ios-email"></i> kamran.noori.nejad@gmail.com</p>
+                <p><i class="ion-android-call"></i> +1 437 505 7519</p>
+                <p><i class="ion-ios-email"></i> kn.farvind@gmail.com</p>
             </div>
             <div class="h-10"></div>
             <ul class="social-ul">
@@ -413,7 +226,7 @@ they lead us to a great world and amazing life!</span></li>
     <!-- footer -->
     <footer>
         <div class="container-fluid">
-            <p class="copyright">© Kamran Noori Nejad <?php echo date("Y"); ?></p>
+            <p class="copyright">© Kamran N. Farvin <?php echo date("Y"); ?></p>
         </div>
     </footer>
     <!-- end footer -->
